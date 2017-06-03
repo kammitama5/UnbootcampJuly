@@ -26,10 +26,12 @@ User Profiles
 login/Signup
 
 
-Most Critical Features:
+Most Critical Features (chosen by group):
 1. Sign Up
 2. Log-in
-
+3. Calendar
+4. Language-learning (skill-level)
+5. Messaging System
 ==================
 Study Buddy App Ideas:
 
