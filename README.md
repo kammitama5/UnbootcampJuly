@@ -14,6 +14,17 @@ agile: features can be amended, team working better together.
 
 Identify users
 
+virtual vs IRL :
+IRL (link to Yelp)
+Geo-location Map 
+
+virtual: 
+rating users 
+user profiles
+choose your languages (English vs Programming)
+User Profiles 
+login/Signup
+
 ==================
 Study Buddy App Ideas:
 
