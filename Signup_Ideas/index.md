@@ -5,6 +5,7 @@
   <li>Username</li>
   <li>Email</li>
   <li>City</li>
+  <li>Github</li>
   <li>Language</li>
 <h2>About Me</h2>
 <p>I live in Sunny Los Angeles.
@@ -17,5 +18,7 @@ I'm trying to learn JavaScript.</p>
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
+
+<p>Link to Schedule</p>
 
 
