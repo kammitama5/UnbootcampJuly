@@ -28,8 +28,8 @@ login/Signup
 
 Most Critical Features (chosen by group):
 1. Sign Up
-2. Log-in
-3. Calendar
+2. Log-in (who is online vs online)
+3. Calendar (availability/ scheduling)
 4. Language-learning (skill-level)
 5. Messaging System
 6. History of Interaction with Person
