@@ -34,6 +34,7 @@ Most Critical Features (chosen by group):
 5. Messaging System
 6. History of Interaction with Person
 7. Collaborative Sharing (eg. Google Docs)
+8. Database to save work (or github)
 ==================
 Study Buddy App Ideas:
 
