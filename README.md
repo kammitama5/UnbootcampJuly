@@ -25,6 +25,11 @@ choose your languages (English vs Programming)
 User Profiles 
 login/Signup
 
+
+Most Critical Features:
+1. Sign Up
+2. Log-in
+
 ==================
 Study Buddy App Ideas:
 
