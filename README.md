@@ -32,6 +32,7 @@ Most Critical Features (chosen by group):
 3. Calendar
 4. Language-learning (skill-level)
 5. Messaging System
+6. History of Interaction with Person
 ==================
 Study Buddy App Ideas:
 
