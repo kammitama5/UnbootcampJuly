@@ -23,16 +23,16 @@ function isRainy(rainy, umbrella){
     
     if ((rainy == true) && (umbrella == true))
     {
-        return "You are in Cali!";
+        return "You are in Cali! What's wrong with you!?";
     }
-    else if ((rainy == false) && (umbrella == true))
+    else if ((rainy == true) && (umbrella == false))
     {
-        return "Why'd you bring your umbrella? ";
+        return "You're drenched! ";
     }
     
     else
     {
-        return "It's rainy, fool!";
+        return "Go to the beach!";
     }
     
     
